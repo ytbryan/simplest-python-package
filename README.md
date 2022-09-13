@@ -8,8 +8,8 @@ You can clone this repository:
 Then create a new venv and activate it:
 
     cd simplest-python-package
-    python -m venv simple
-    source simple/bin/activate
+    python3 -m venv suss_learning
+    source suss_learning/bin/activate
 
 Now install this package in editable mode:
 
