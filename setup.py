@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='myproj',
-    version='0.1.0',
+    name='suss_learning',
+    version='0.1.0.alpha',
     packages=find_packages(),
     entry_points='''
         [console_scripts]
-        myproj=myproj.__main__:run
+        suss_learning=suss_learning.__main__:run
     ''', 
     license="BSD",  # TODO change the license
     classifiers=[
